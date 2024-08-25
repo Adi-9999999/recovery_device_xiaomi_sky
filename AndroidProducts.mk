@@ -15,7 +15,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/twrp_sky.mk
+    $(LOCAL_DIR)/twrp_breeze.mk
 
 COMMON_LUNCH_CHOICES := \
-    twrp_sky-eng
+    twrp_breeze-eng
